@@ -43,7 +43,7 @@ By completing this reflection, you will gain a clearer understanding of your car
       *Attention to detail and process improvement:Ensuring Accuracy in documentation and efficient workflow management.
       
     - Identify skills you need to develop or improve.
-    - 
+      
       *Gain confidence in HTML and CSS.
       
       *Learn  JavaScript, UI and other software development languages.
@@ -58,7 +58,7 @@ By completing this reflection, you will gain a clearer understanding of your car
 4. **Interests and Values**:
     
     - Describe your key interests related to your career.
-    - 
+      
  *As someone beginning a new journey in Software Development, I am deeply interested in understanding how technology can be used to solve real-world problems.I enjoy the idea of building websites and tools that are useful especially for small businesses as well as individuals. I am also curious about how I can eventually combine my background in finance with software skills — particularly in areas like FinTech, automation, and data analysis.
 
 At the moment , I am still learning the basics (HTML, CSS, Git), but I find it exciting to create something functional from just a few lines of code. The process of learning new technologies and challenging myself in a completely new field motivates me. I’m especially interested in continuing to grow, build practical projects, and become confident in creating full web applications over time.
@@ -80,38 +80,59 @@ At the moment , I am still learning the basics (HTML, CSS, Git), but I find it e
 1. **Industries and Roles Explored**:
     
     - List the industries or roles you have researched.
+    - 
 As a beginner in Software Development, I’ve started exploring various roles and industries that are open to entry-level professionals or career changers. So far, I’ve researched the following:
+
    *Software Developer/Software Engineer (Front-End and Full-Stack)
+   
    *UI/UX Designer
+   
    *Quality Assurance (QA) / Software Testing
-   *FinTech (Financial Technology)-Data Analyst or Data Scientist.
+   
+   *FinTech (Financial Technology)-Data Analyst or Data Scientist
+   
    *Tech Support / IT Helpdesk
   
 
     - Note any particular areas that piqued your interest.
+    - 
    *Software Development: I’m drawn to building websites and apps that solve real problems. Even as a beginner, I enjoy seeing my code create something functional, and I’m excited to deepen my understanding of how software works from front to back.
+
    *QA (Quality Assurance) & Software Testing: I’m interested in the testing side of development, where I can ensure that applications are working properly and are free of bugs. This ties in well with my attention to detail from working in finance.
+   
    *UI/UX Design: I’m curious about how to design software that is user-friendly and accessible. I enjoy the creative aspect and how it connects design with user behavior and experience.
+   
    *FinTech (Financial Technology): This is a space where I see strong potential to combine my financial background with new software development skills. I’m especially interested in how apps and digital tools are helping people manage money, payments, credit, and more.
    
-2. **Alignment with Personal Profile**:
+3. **Alignment with Personal Profile**:
     
     - Reflect on how these industries/roles align with your skills, interests, and values.
+      
 The industries and roles I’ve explored — including software development, QA/software testing, UI/UX design, and FinTech — align well with both my current strengths and the direction I want to grow in.
 
    *Analytical thinking and attention to detail, which I developed through years in finance, are valuable in roles like QA testing, software development, and FinTech.
+   
    *I enjoy problem-solving and working through challenges, which is a big part of what software developers and testers do daily.
+   
    *My interest in building tools or solutions that help others aligns with the purpose behind tech roles — creating meaningful products.
+   
    *I value structure, learning, and clear communication, which are important in both the tech and finance industries.
+   
    *In UI/UX design, I see an opportunity to connect creativity with user empathy — something I value in any professional setting.
+   
    *FinTech is a natural fit, allowing me to merge my financial knowledge with my new software development skills.
 
    
     - Identify any gaps or areas for further exploration.
+    
    *I need to gain more hands-on coding experience, especially in JavaScript and back-end development.
+   
    *I haven’t yet worked on a real-world team project, so understanding collaboration tools and team workflows (like Agile and GitHub collaboration) is something to work on.
+   
    *I want to explore more about what day-to-day work looks like in UI/UX, QA, and FinTech, to see which path fits me best.
+   
    *I would benefit from networking, mentorship, or job shadowing to better understand roles I’m curious about.
+   
    *I still need to build confidence in my technical abilities, since I’m just getting started.
 
 ### Part 3: SMART Career Goals
