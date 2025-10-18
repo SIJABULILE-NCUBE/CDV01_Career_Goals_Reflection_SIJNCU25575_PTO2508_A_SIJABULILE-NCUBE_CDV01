@@ -16,44 +16,63 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 ### Personal Information
 
-- **Name:Sijabulile Ncube
-- **Date:18 October 2025
-- **Current Role/Position:Operations and Administration Specialist (Credit Specialist)
-- **Field of Interest:Software Developer / UI/UX Designer /Fintech
+- 👩🏾‍🦱Name:Sijabulile Ncube
+- 📅Date:18 October 2025
+- 👷🏾‍♀️Current Role/Position:Operations and Administration Specialist (Credit Specialist)
+- 👩🏾‍💻Field of Interest:Software Developer / UI/UX Designer /Fintech
 
 ### Part 1: Self-Assessment Reflection
 
 1. **Skills Analysis**:
     
     - List your current skills and areas of expertise.
-      *Credit Risk Analysis and Management:8 Years of experience assessing and mitigating financial risk
+    - 
+      *Credit Risk Analysis and Management:8 Years of experience assessing and mitigating financial risk.
+      
       *Operations and Administration :Skilled in Credit fulfilment, documentation, and compliance management.
+      
       *Client Portfolio Management:Managing SME and Commercial Banking clients with high value mandates.
+  
+2. 
       *Finanacial Systems Proficiency:Experienced with platforms such as ESP,BTP,SAP,e-natis,and Global Login.
+   
       *Regulatory and compliance knowledge:Strong understanding of NCS,FAIS,and FICA Regulations.
+   
       *Analytical and problem solving skills:Intepreting financial statements and and identifying potential risks or opportunities.
+   
       *Attention to detail and process improvement:Ensuring Accuracy in documentation and efficient workflow management.
       
     - Identify skills you need to develop or improve.
+    - 
       *Gain confidence in HTML and CSS.
+      
       *Learn  JavaScript, UI and other software development languages.
+      
       *Understanding of basic website structure and styling.
+      
       *Gain confidence working with VSC , Git and GITHUB.
+      
       *Improve consistency with practice and project work
 
 
-2. **Interests and Values**:
+4. **Interests and Values**:
     
     - Describe your key interests related to your career.
+    - 
  *As someone beginning a new journey in Software Development, I am deeply interested in understanding how technology can be used to solve real-world problems.I enjoy the idea of building websites and tools that are useful especially for small businesses as well as individuals. I am also curious about how I can eventually combine my background in finance with software skills — particularly in areas like FinTech, automation, and data analysis.
 
 At the moment , I am still learning the basics (HTML, CSS, Git), but I find it exciting to create something functional from just a few lines of code. The process of learning new technologies and challenging myself in a completely new field motivates me. I’m especially interested in continuing to grow, build practical projects, and become confident in creating full web applications over time.
 
     - What values are important to you in a work environment?
+    
    *Growth and Learning: I value being in an environment where I can continuously learn and improve my skills, especially since I’m new to the tech field.
+   
    *Supportive Teamwork: I appreciate workplaces where colleagues support one another, share knowledge, and work towards common goals.
+   
    *Integrity and Professionalism: Coming from a finance background, I place a high value on ethical work practices and accountability.
+   
    *Inclusivity and Respect: I believe that everyone should feel valued, regardless of their background or experience level.
+   
    *Purpose-Driven Work: I’m motivated when the work I do has real impact — whether helping a team, a client, or improving a process.
 
 ### Part 2: Career Exploration Insights
