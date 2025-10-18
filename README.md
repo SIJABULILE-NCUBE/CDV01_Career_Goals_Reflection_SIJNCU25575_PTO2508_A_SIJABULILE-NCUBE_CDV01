@@ -79,7 +79,7 @@ At the moment , I am still learning the basics (HTML, CSS, Git), but I find it e
 
 1. **Industries and Roles Explored**:
     
-    - List the industries or roles you have researched.
+    - List the industries or roles you have researched!
      
 As a beginner in Software Development, I’ve started exploring various roles and industries that are open to entry-level professionals or career changers. So far, I’ve researched the following:
 
@@ -184,22 +184,28 @@ Relevant: It will improve my problem-solving, teamwork, and real-world coding sk
 Time-bound: Join and complete one by August 2026.
 
     - Explain the rationale behind each goal.
+    
       🥅Goal 1 : Completing this course will give me the knowledge and confidence I need to start applying for roles in the tech industry. It’s the foundation of my new career path.
+      
       🥅Goal 2 :These projects will show my skills in action and prove that I can apply what I’ve learned. It’s also a good way to track my progress and growth.
+      
       🥅Goal 3 :Learning JavaScript will help me understand dynamic website behavior, while Python is useful in areas like data analysis and automation — areas I’m curious about and may want to explore in FinTech.
+      
       🥅Goal 4:Gaining work experience will help me apply what I’ve learned in a professional environment and build my confidence. It’s also the next step in transitioning from learner to working developer.
+      
       🥅Goal 5:Group projects and coding challenges will help me get used to working with others, using GitHub in a team setting, and thinking under pressure. 
     
 2. **Long-term Goals** (3-5 years and beyond):
     
     - Outline your long-term career aspirations.
-      In the next 4–5 years, my goal is to grow into a professional Software Developer, working on useful and practical applications. I also want to explore roles such as UI/UX Designer, where I can combine creativity with problem-solving to design user-friendly digital experiences.
+    - 
+      In the next 3–5 years, my goal is to grow into a professional Software Developer, working on useful and practical applications. I also want to explore roles such as UI/UX Designer, where I can combine creativity with problem-solving to design user-friendly digital experiences.
 
 Another area I’m strongly interested in is FinTech, as it connects with my financial background and allows me to build or improve tools that help people manage money and financial services. I’m also open to roles in Quality Assurance (QA) or Software Testing, as I enjoy spotting errors and ensuring systems work smoothly.
-
 Eventually, I would like to be confident enough to manage small projects, contribute to real teams, or even mentor other beginners starting their journey in tech.
 
     - Describe how these align with your interests and skills.
+    
    * I enjoy problem-solving, being creative, and improving systems — which align well with both software development and UI/UX design.
 
    *My financial experience fits naturally into FinTech, especially with my understanding of risk, compliance, and client-focused work.
@@ -213,6 +219,7 @@ Eventually, I would like to be confident enough to manage small projects, contri
 1. **Steps to Achieve Short-term Goals**:
     
     - Detail specific actions or steps needed to achieve each short-term goal.
+      
     🥅Goal 1: Complete the full Software Development course by August 2026
 
               🪜  Steps:
@@ -221,7 +228,6 @@ Do my daily check-ins on Discord
 Complete each module, task, and challenge on time.
 Stay consistent with studying each week.
 Ask questions when I’m stuck to avoid falling behind.
-
              ⚒️Resources/support needed:
 Access to CodeSpace LMS and Discord.
 Support from Corse coordinators and my coach.
