@@ -32,9 +32,8 @@ By completing this reflection, you will gain a clearer understanding of your car
       *Operations and Administration :Skilled in Credit fulfilment, documentation, and compliance management.
       
       *Client Portfolio Management:Managing SME and Commercial Banking clients with high value mandates.
-  
-2. 
-      *Finanacial Systems Proficiency:Experienced with platforms such as ESP,BTP,SAP,e-natis,and Global Login.
+   
+      *Financial Systems Proficiency:Experienced with platforms such as ESP,BTP,SAP,e-natis,and Global Login.
    
       *Regulatory and compliance knowledge:Strong understanding of NCS,FAIS,and FICA Regulations.
    
