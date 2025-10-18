@@ -26,7 +26,7 @@ By completing this reflection, you will gain a clearer understanding of your car
 1. **Skills Analysis**:
     
     - List your current skills and areas of expertise.
-    - 
+     
       *Credit Risk Analysis and Management:8 Years of experience assessing and mitigating financial risk.
       
       *Operations and Administration :Skilled in Credit fulfilment, documentation, and compliance management.
@@ -41,6 +41,7 @@ By completing this reflection, you will gain a clearer understanding of your car
       *Analytical and problem solving skills:Intepreting financial statements and and identifying potential risks or opportunities.
    
       *Attention to detail and process improvement:Ensuring Accuracy in documentation and efficient workflow management.
+   
       
     - Identify skills you need to develop or improve.
       
@@ -59,7 +60,7 @@ By completing this reflection, you will gain a clearer understanding of your car
     
     - Describe your key interests related to your career.
       
- *As someone beginning a new journey in Software Development, I am deeply interested in understanding how technology can be used to solve real-world problems.I enjoy the idea of building websites and tools that are useful especially for small businesses as well as individuals. I am also curious about how I can eventually combine my background in finance with software skills — particularly in areas like FinTech, automation, and data analysis.
+ As someone beginning a new journey in Software Development, I am deeply interested in understanding how technology can be used to solve real-world problems.I enjoy the idea of building websites and tools that are useful especially for small businesses as well as individuals. I am also curious about how I can eventually combine my background in finance with software skills — particularly in areas like FinTech, automation, and data analysis.
 
 At the moment , I am still learning the basics (HTML, CSS, Git), but I find it exciting to create something functional from just a few lines of code. The process of learning new technologies and challenging myself in a completely new field motivates me. I’m especially interested in continuing to grow, build practical projects, and become confident in creating full web applications over time.
 
@@ -80,7 +81,7 @@ At the moment , I am still learning the basics (HTML, CSS, Git), but I find it e
 1. **Industries and Roles Explored**:
     
     - List the industries or roles you have researched.
-    - 
+     
 As a beginner in Software Development, I’ve started exploring various roles and industries that are open to entry-level professionals or career changers. So far, I’ve researched the following:
 
    *Software Developer/Software Engineer (Front-End and Full-Stack)
@@ -95,7 +96,7 @@ As a beginner in Software Development, I’ve started exploring various roles an
   
 
     - Note any particular areas that piqued your interest.
-    - 
+    
    *Software Development: I’m drawn to building websites and apps that solve real problems. Even as a beginner, I enjoy seeing my code create something functional, and I’m excited to deepen my understanding of how software works from front to back.
 
    *QA (Quality Assurance) & Software Testing: I’m interested in the testing side of development, where I can ensure that applications are working properly and are free of bugs. This ties in well with my attention to detail from working in finance.
