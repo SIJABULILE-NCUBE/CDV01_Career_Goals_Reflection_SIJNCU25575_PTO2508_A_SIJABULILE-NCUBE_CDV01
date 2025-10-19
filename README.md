@@ -46,9 +46,9 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 - Describe your key interests related to your career:
 
-  As someone beginning a new journey in Software Development, I am deeply interested in understanding how technology can be used to solve real-world problems. 💡 I enjoy building websites and tools that are useful, especially for small businesses as well as individuals. I am also curious about how I can eventually combine my background in finance with software skills — particularly in areas like FinTech, automation, and data analysis. 📊💻  
+  As someone beginning a new journey in Software Development, I am deeply interested in understanding how technology can be used to solve real-world problems.  I am also curious about how I can eventually combine my background in finance with software skills — particularly in areas like FinTech, automation, and data analysis.   
 
-  At the moment, I am still learning the basics (HTML, CSS, Git), but I find it exciting to create something functional from just a few lines of code. 🚀 The process of learning new technologies and challenging myself in a completely new field motivates me. I’m especially interested in continuing to grow, build practical projects, and become confident in creating full web applications over time. 🌱
+  At the moment, I am still learning the basics (HTML, CSS, Git), but I find it exciting to create something functional from just a few lines of code.  The process of learning new technologies and challenging myself in a completely new field motivates me. I’m especially interested in continuing to grow, build practical projects, and become confident in creating full web applications over time. 🌱
 
 - What values are important to you in a work environment?
 
@@ -66,7 +66,7 @@ By completing this reflection, you will gain a clearer understanding of your car
 
   As a beginner in Software Development, I’ve started exploring various roles and industries that are open to entry-level professionals or career changers. So far, I’ve researched the following:  
 
-  * Software Developer/Software Engineer (Front-End and Full-Stack) 💻  
+  * Software Developer/Software Engineer (Front-End , back-End and Full-Stack) 💻  
   * UI/UX Designer 🎨  
   * Quality Assurance (QA) / Software Testing 🔍  
   * FinTech (Financial Technology) - Data Analyst or Data Scientist 📊  
@@ -74,7 +74,7 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 - Note any particular areas that piqued your interest:
 
-  * Software Development: I’m drawn to building websites and apps that solve real problems. Even as a beginner, I enjoy seeing my code create something functional. 🚀  
+  * Software Development: I’m drawn to building websites and apps that solve real problems. Even as a beginner, I enjoy seeing my code create something functional. 😀  
   * QA (Quality Assurance) & Software Testing: I’m interested in the testing side of development, where I can ensure applications work properly and are free of bugs. 🐛 This ties in well with my attention to detail from finance.  
   * UI/UX Design: I’m curious about designing software that is user-friendly and accessible. 🎨 I enjoy connecting creativity with user behavior and experience.  
   * FinTech: A space where I can combine my financial background with software skills. 💰 I’m interested in apps and tools that help people manage money, payments, credit, and more.  
@@ -93,7 +93,7 @@ By completing this reflection, you will gain a clearer understanding of your car
 - Identify any gaps or areas for further exploration:
 
   * Gain more hands-on coding experience, especially in JavaScript and back-end development. 💻  
-  * Work on a real-world team project to understand collaboration tools and workflows (Agile, GitHub). 🤝  
+  * Work on a real-world team project to understand collaboration tools and workflows ( GitHub). 🤝  
   * Explore day-to-day work in UI/UX, QA, and FinTech to identify the best fit. 🔍  
   * Networking, mentorship, or job shadowing to better understand desired roles. 🌐  
   * Build confidence in technical abilities as a beginner. 🚀  
@@ -104,7 +104,7 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 - List your specific, measurable, achievable, relevant, and time-bound goals:
 
-  🥅 **Goal 1:** Complete the full Software Development course by August 2026  
+  🥅 **Goal 1:** Complete the full Software Development course from Codespace by August 2026  
   Specific: Finish the Software Development course covering HTML, CSS, JavaScript, Git, and more.  
   Measurable: Track completed modules, tasks, and projects.  
   Achievable: Already started and committed to weekly learning.  
@@ -112,14 +112,14 @@ By completing this reflection, you will gain a clearer understanding of your car
   Time-bound: Complete by August 2026. 📅  
 
   🥅 **Goal 2:** Build and publish 3 beginner projects on GitHub by June 2026  
-  Specific: Create and upload 3 coding projects using HTML, CSS, and JavaScript.  
+  Specific: Create and upload 3 coding projects using HTML, CSS, and JavaScript.   
   Measurable: GitHub shows progress and completed repositories.  
-  Achievable: Completed 3 beginner challenges, will build on that.  
+  Achievable: Have already completed 3 beginner challenges set by Codespace (14/09/2025 ,28/09/2025 and 12/10/2025), will build on that.  
   Relevant: Strong portfolio helps with internships and job applications.  
   Time-bound: Complete by June 2026. 💻  
 
   🥅 **Goal 3:** Learn JavaScript by March 2026  
-  Specific: Focus on foundational concepts using LMS and coaching lessons.  
+  Specific: Focus on foundational concepts using LMS and coaching sessions.  
   Measurable: Completion of at least one challenge per language.  
   Achievable: Utilize available online resources like YouTube.  
   Relevant: Opens more opportunities in software development.  
@@ -128,7 +128,7 @@ By completing this reflection, you will gain a clearer understanding of your car
   🥅 **Goal 4:** Apply for an intership or junior role by September 2026  
   Specific: Prepare and submit applications for entry-level roles.  
   Measurable: Track applications and responses.  
-  Achievable: With a course, portfolio, GitHub projects, and career support, I’ll be ready.  
+  Achievable: With a Codespace course,A portfolio, GitHub projects, and career support, I believe that I will be ready.  
   Relevant: Gaining work experience is key to starting a career.  
   Time-bound: Start applying by September 2026. 📝  
 
@@ -173,7 +173,7 @@ By completing this reflection, you will gain a clearer understanding of your car
   Complete modules, tasks, and challenges on time ✅  
   Stay consistent with weekly study 📈  
   Ask questions when stuck ❓  
-  ⚒️ Resources/Support Needed: CodeSpace LMS and Discord; support from coordinators and coach 👩🏾‍🏫  
+  ⚒️ Resources/Support Needed: CodeSpace LMS and Discord; support from coordinators 👩🏼 and coach 🧔🏾‍♂️  
 
 - 🥅 Goal 2: Build and publish 3 beginner projects on GitHub by June 2026  
   🪜 Steps:  
