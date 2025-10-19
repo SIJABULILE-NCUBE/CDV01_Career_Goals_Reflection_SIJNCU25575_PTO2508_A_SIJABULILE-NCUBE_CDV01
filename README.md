@@ -93,7 +93,7 @@ As a beginner in Software Development, I’ve started exploring various roles an
    
    *Tech Support / IT Helpdesk
    
-    - Note any particular areas that piqued your interest.
+    ○ Note any particular areas that piqued your interest.
     
    *Software Development: I’m drawn to building websites and apps that solve real problems. Even as a beginner, I enjoy seeing my code create something functional, and I’m excited to deepen my understanding of how software works from front to back.
 
@@ -121,7 +121,7 @@ The industries and roles I’ve explored — including software development, QA/
    
    *FinTech is a natural fit, allowing me to merge my financial knowledge with my new software development skills.
    
- - Identify any gaps or areas for further exploration.
+   ○ Identify any gaps or areas for further exploration.
     
    *I need to gain more hands-on coding experience, especially in JavaScript and back-end development.
    
@@ -155,7 +155,7 @@ Achievable: I’ve already completed 3 beginner challenges and will build on tha
 Relevant: A strong portfolio will help with internship and job applications.
 Time-bound: Goal is to complete this by June 2026.
 
-    🥅Goal 3: Learn JavaScript by March 2026
+ 🥅Goal 3: Learn JavaScript by March 2026
 
 Specific: Focus on foundational concepts  using LMS and also with the assistance of Coaching /contact time lessons.
 Measurable: Completion of at least one challenge per language.
@@ -179,7 +179,7 @@ Achievable: Opportunities are available through CodeSpace (Discord)and other onl
 Relevant: It will improve my problem-solving, teamwork, and real-world coding skills.
 Time-bound: Join and complete one by August 2026.
 
-    - Explain the rationale behind each goal.
+    ○ Explain the rationale behind each goal.
     
       🥅Goal 1 : Completing this course will give me the knowledge and confidence I need to start applying for roles in the tech industry. It’s the foundation of my new career path.
       🥅Goal 2 :These projects will show my skills in action and prove that I can apply what I’ve learned. It’s also a good way to track my progress and growth.
@@ -196,9 +196,9 @@ Time-bound: Join and complete one by August 2026.
 Another area I’m strongly interested in is FinTech, as it connects with my financial background and allows me to build or improve tools that help people manage money and financial services. I’m also open to roles in Quality Assurance (QA) or Software Testing, as I enjoy spotting errors and ensuring systems work smoothly.
 Eventually, I would like to be confident enough to manage small projects, contribute to real teams, or even mentor other beginners starting their journey in tech.
 
-    - Describe how these align with your interests and skills.
+    ○ Describe how these align with your interests and skills.
     
-   * I enjoy problem-solving, being creative, and improving systems — which align well with both software development and UI/UX design.
+   *I enjoy problem-solving, being creative, and improving systems — which align well with both software development and UI/UX design.
 
    *My financial experience fits naturally into FinTech, especially with my understanding of risk, compliance, and client-focused work.
 
@@ -213,68 +213,59 @@ Eventually, I would like to be confident enough to manage small projects, contri
     - Detail specific actions or steps needed to achieve each short-term goal.
       
     🥅Goal 1: Complete the full Software Development course by August 2026
-
-              🪜  Steps:
+🪜  Steps:
 Attend all scheduled classes (contact time on Thursdays)
 Do my daily check-ins on Discord
 Complete each module, task, and challenge on time.
 Stay consistent with studying each week.
 Ask questions when I’m stuck to avoid falling behind.
-             ⚒️Resources/support needed:
+⚒️Resources/support needed:
 Access to CodeSpace LMS and Discord.
 Support from Corse coordinators and my coach.
 
   🥅Goal 2: Build and publish 3 beginner projects on GitHub by June 2026
-
-               🪜 Steps:
+🪜 Steps:
 Start simple projects.
 Apply what I learn in class to build each project.
 Use Git and GitHub to upload and document each project.
 Write a clear README file for every project explaining what it does.
 Improve each project after receiving feedback.
-
-             ⚒️Resources/support needed:
+⚒️Resources/support needed:
 GitHub account and basic knowledge of Git commands.
 Tutorials or examples to guide project structure.
 Feedback from peers or online coding communities.
 
  🥅Goal 3: Learn JavaScript basics by March 2026
-
-             🪜 Steps:
+🪜 Steps:
 Set aside time each week to study JavaScript and Python separately.
 Follow beginner tutorials on online platforms.
 Test my code.
 Track my learning in a journal.
-
-          ⚒️Resources/support needed:
+⚒️Resources/support needed:
 Codespace LMS as well as free online resources (YouTube).
 Practice platforms like VSC.
 Time management and discipline to stay consistent.
 
   🥅Goal 4: Apply for an internship or junior tech role by September 2026
-
-             🪜 Steps:
+ 🪜 Steps:
 Build a simple tech-focused CV and set up a LinkedIn profile.
 Use my 'Portfolio Piece' repository to apply for tech roles.
 Research companies or platforms offering beginner roles or internships.
 Practice answering technical and behavioral interview questions.
-
-           ⚒️ Resources/support needed:
+⚒️ Resources/support needed:
 Utilise GitHub.
 Guidance from career advisors or mentors.
 Mock interview practice and application templates.
 
 
   🥅Goal 5: Participate in a coding challenge or group project by July 2026
-
-             🪜 Steps:
+ 🪜 Steps:
 Join an online hackathon.
 Connect with classmates to work on a small group project.
 Use GitHub to collaborate and manage project code.
 Reflect on the experience to learn what worked and what didn’t.
 Add the project to my portfolio afterward.
-
-    ⚒️Resources/support needed:
+⚒️Resources/support needed:
 Coding platforms (e.g. Hackathon sites).
 Peer group or classmates to collaborate with.
 
