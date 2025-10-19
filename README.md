@@ -63,6 +63,7 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 At the moment , I am still learning the basics (HTML, CSS, Git), but I find it exciting to create something functional from just a few lines of code. The process of learning new technologies and challenging myself in a completely new field motivates me. I’m especially interested in continuing to grow, build practical projects, and become confident in creating full web applications over time.
 
+
     - What values are important to you in a work environment?
     
    *Growth and Learning: I value being in an environment where I can continuously learn and improve my skills, especially since I’m new to the tech field.
@@ -92,9 +93,8 @@ As a beginner in Software Development, I’ve started exploring various roles an
    *FinTech (Financial Technology)-Data Analyst or Data Scientist
    
    *Tech Support / IT Helpdesk
-  
-
-    - Note any particular areas that piqued your interest.
+   
+   - Note any particular areas that piqued your interest.
     
    *Software Development: I’m drawn to building websites and apps that solve real problems. Even as a beginner, I enjoy seeing my code create something functional, and I’m excited to deepen my understanding of how software works from front to back.
 
@@ -121,9 +121,8 @@ The industries and roles I’ve explored — including software development, QA/
    *In UI/UX design, I see an opportunity to connect creativity with user empathy — something I value in any professional setting.
    
    *FinTech is a natural fit, allowing me to merge my financial knowledge with my new software development skills.
-
    
-    - Identify any gaps or areas for further exploration.
+ - Identify any gaps or areas for further exploration.
     
    *I need to gain more hands-on coding experience, especially in JavaScript and back-end development.
    
@@ -149,15 +148,13 @@ Achievable: I’ve already started and am committed to learning weekly.
 Relevant: This course gives me the foundation to start a career in tech.
 Time-bound: Target completion by August 2026.
 
-
-    🥅Goal 2: Build and publish 3 beginner projects on GitHub by June 2026
+ 🥅Goal 2: Build and publish 3 beginner projects on GitHub by June 2026
 
 Specific: Create and upload 5 coding projects using HTML, CSS, and JavaScript.
 Measurable: GitHub will show my progress and completed repositories.
 Achievable: I’ve already completed 3 beginner challenges and will build on that.
 Relevant: A strong portfolio will help with internship and job applications.
 Time-bound: Goal is to complete this by June 2026.
-
 
     🥅Goal 3: Learn JavaScript by March 2026
 
@@ -186,13 +183,9 @@ Time-bound: Join and complete one by August 2026.
     - Explain the rationale behind each goal.
     
       🥅Goal 1 : Completing this course will give me the knowledge and confidence I need to start applying for roles in the tech industry. It’s the foundation of my new career path.
-      
       🥅Goal 2 :These projects will show my skills in action and prove that I can apply what I’ve learned. It’s also a good way to track my progress and growth.
-      
       🥅Goal 3 :Learning JavaScript will help me understand dynamic website behavior, while Python is useful in areas like data analysis and automation — areas I’m curious about and may want to explore in FinTech.
-      
       🥅Goal 4:Gaining work experience will help me apply what I’ve learned in a professional environment and build my confidence. It’s also the next step in transitioning from learner to working developer.
-      
       🥅Goal 5:Group projects and coding challenges will help me get used to working with others, using GitHub in a team setting, and thinking under pressure. 
     
 2. **Long-term Goals** (3-5 years and beyond):
