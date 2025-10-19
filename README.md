@@ -63,7 +63,6 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 At the moment , I am still learning the basics (HTML, CSS, Git), but I find it exciting to create something functional from just a few lines of code. The process of learning new technologies and challenging myself in a completely new field motivates me. I’m especially interested in continuing to grow, build practical projects, and become confident in creating full web applications over time.
 
-
     - What values are important to you in a work environment?
     
    *Growth and Learning: I value being in an environment where I can continuously learn and improve my skills, especially since I’m new to the tech field.
@@ -80,7 +79,7 @@ At the moment , I am still learning the basics (HTML, CSS, Git), but I find it e
 
 1. **Industries and Roles Explored**:
     
-    - List the industries or roles you have researched!
+     - List the industries or roles you have researched!
      
 As a beginner in Software Development, I’ve started exploring various roles and industries that are open to entry-level professionals or career changers. So far, I’ve researched the following:
 
@@ -94,7 +93,7 @@ As a beginner in Software Development, I’ve started exploring various roles an
    
    *Tech Support / IT Helpdesk
    
-   - Note any particular areas that piqued your interest.
+    - Note any particular areas that piqued your interest.
     
    *Software Development: I’m drawn to building websites and apps that solve real problems. Even as a beginner, I enjoy seeing my code create something functional, and I’m excited to deepen my understanding of how software works from front to back.
 
