@@ -63,7 +63,7 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 At the moment , I am still learning the basics (HTML, CSS, Git), but I find it exciting to create something functional from just a few lines of code. The process of learning new technologies and challenging myself in a completely new field motivates me. I’m especially interested in continuing to grow, build practical projects, and become confident in creating full web applications over time.
 
-   - **What values are important to you in a work environment?**
+   ○ What values are important to you in a work environment?
     
    *Growth and Learning: I value being in an environment where I can continuously learn and improve my skills, especially since I’m new to the tech field.
    
